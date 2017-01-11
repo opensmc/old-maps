@@ -18,5 +18,6 @@ Georeferencing is the process of assigning spatial coordinates to data that is s
 
 ## Advice
 * If you create 12 control points as evenly distributed across the image as possible, the georeferenced map won't look warped
-* Feel free to skip maps you don't like
-*
+* Feel free to skip maps you don't like, someone else will work on it
+* Some maps can't be georefenced because they are a small portion of the sheet. Please feel free to skip these, but let John know (comments in Github repo is great)
+* If you have any questions or comments at all, please don't hesitate to ask! @jridener on Slack and jridener@opensmc.org
