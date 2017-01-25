@@ -21,4 +21,4 @@ Georeferencing is the process of assigning spatial coordinates to data that is s
 * Use second order polynomial as a transformation setting
 * Feel free to skip maps you don't like, someone else will work on it
 * Some maps can't be georefenced because they are a small portion of the sheet. Please feel free to skip these, but let John know (comments in Github repo is great)
-* If you have any questions or comments at all, please don't hesitate to ask! @jridener on Slack and jridener@opensmc.org
+* If you have any questions or comments at all, please don't hesitate to ask! [@jridener](https://opensmc.slack.com/) on Slack and jridener@opensmc.org
