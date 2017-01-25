@@ -1,5 +1,5 @@
 # old-maps
-Georeferencing old maps from the San Mateo County Department of Planning and Building
+Georeferencing old, scanned maps of San Mateo County
 
 ## Introduction
 The [San Mateo County Department of Planning and Building](http://planning.smcgov.org/) has scaned about 125 old maps from its paper map collection. Rather than letting these digital maps gather dust on hard drives, we're georeferencing these maps and making as many of them available to the public as possible.
