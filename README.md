@@ -9,7 +9,7 @@ Georeferencing is the process of assigning spatial coordinates to data that is s
 
 ## Steps
 1. [Download QGIS](http://www.qgis.org/en/site/forusers/download.html) if you need it
-1. Review the georeferencing steps on [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/docs/georeferencing_basics.html)
+1. Review the georeferencing steps on the [QGIS Georeferencer documentation](https://docs.qgis.org/2.2/en/docs/user_manual/plugins/plugins_georeferencer.html)
 1. Find a map you'd like to georeference on the [OpenSMC Google Drive](https://drive.google.com/open?id=0B4abucxuAKOWSlVvaE5JWjFkdE0)
 1. Download the image file from Google Drive
 1. Download the [QGIS project file](https://github.com/opensmc/old-maps/blob/master/old_maps_qgis_project.zip) that contains the base layers you'll use to geocode to from [Google Drive](need link)
@@ -21,4 +21,5 @@ Georeferencing is the process of assigning spatial coordinates to data that is s
 * Use second order polynomial as a transformation setting
 * Feel free to skip maps you don't like, someone else will work on it
 * Some maps can't be georefenced because they are a small portion of the sheet. Please feel free to skip these, but let John know (comments in Github repo is great)
+* For more information on georeferencing in QGIS, take a look at [this video] (https://www.youtube.com/watch?v=KBBepLyyGL8)
 * If you have any questions or comments at all, please don't hesitate to ask! [@jridener](https://opensmc.slack.com/) on Slack and jridener@opensmc.org
